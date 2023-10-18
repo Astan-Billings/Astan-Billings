@@ -1,4 +1,4 @@
-<h1>Hi, I'm Astan! <br/><a href="https://github.com/joshmadakor1">Linux Systems Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">AWS Cloud</a>, <a href="https://www.youtube.com/c/joshmadakor">Software Dev/Ops</a></h1>
+<h1>Hi, I'm Astan! <br/><a href="https://github.com/Astan-Billings">Linux Systems Engineer</a>, <a href="https://www.linkedin.com/in/acbillings/">AWS Cloud</a>, <a href="https://www.linkedin.com/in/acbillings/">Software Dev/Ops</a></h1>
 
 <h2>👨‍💻 Certifications:</h2>
 
