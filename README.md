@@ -27,10 +27,10 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
-  ***In Progress***
+  <b>***Works In Progress***</b>
 
 <h2>👨‍💻 Software Dev/Ops Projects:</h2>
-  ***In Progress***
+  <b>***Works In Progress***</b>
   
 - <b>Software Development Projects</b>
   - 
