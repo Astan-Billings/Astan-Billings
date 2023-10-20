@@ -26,7 +26,9 @@
 
 - <b>Containerized Applications with Docker (Linux Administration Bootcamp Part 2)</b>
   - [Running Containerized Applications with Docker on Linux](https://github.com/Astan-Billings/Linux-Docker-Container)
- 
+- <b>Automation of Linux Administration Tasks with Ansible (Linux Administration Bootcamp Part 2))</b>
+  - [Automating Linux Administration tasks with Ansible](https://github.com/Astan-Billings/Linux-Ansible-Automation/) <b><i>(Potentially VSFW)</b></i>
+
  <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
