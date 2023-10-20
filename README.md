@@ -6,6 +6,20 @@
 <a href="https://www.credly.com/earner/earned/badge/c08b4c5e-28ad-4bc1-8a4f-9e8a33a99113">AWS Certified Solutions Architect Associate</a>
  <br/><a href="https://www.credly.com/earner/earned/badge/3a52bfbb-8486-4b1d-8cf8-356d36037e1b">AWS Certified Cloud Practitioner</a>
 
+ <h2>👨‍💻 Courses:</h2>
+ <b>Here are some of the courses I am working on:</b>
+ 
+ <h3>Udemy Courses</h3>
+ <a href="">The Linux Command Line Bootcamp</a><br>
+ <a href="">Complete Linux Troubleshooting Course</a><br>
+ <!-- <a href="">Bash Mastery: The Complete Guide to Bash Shell Scripting</a> -->
+
+ <h3>Cloud Courses</h3>
+ <a href="https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03">Learn Cantrill's AWS Cerfitied Solutions Architect   Associate</a>
+
+ <h3>Software Dev/Ops</h3>
+ <a href="">Coursecareers Software Development Fundamentals</a>
+
 
 
 <h2>👨‍💻 Linux System Admin/Engineering Projects:</h2>
