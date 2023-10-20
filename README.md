@@ -26,7 +26,7 @@
 
 - <b>Containerized Applications with Docker (Linux Administration Bootcamp Part 2)</b>
   - [Running Containerized Applications with Docker on Linux](https://github.com/Astan-Billings/Linux-Docker-Container)
-- <b>Automation of Linux Administration Tasks with Ansible (Linux Administration Bootcamp Part 2))</b>
+- <b>Automation of Linux Administration Tasks with Ansible (Linux Administration Bootcamp Part 2)</b>
   - [Automating Linux Administration tasks with Ansible](https://github.com/Astan-Billings/Linux-Ansible-Automation/) <b><i>(Potentially VSFW)</b></i>
 
  <!--
