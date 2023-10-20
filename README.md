@@ -10,15 +10,15 @@
  <b>Here are some of the courses I am working on:</b>
  
  <h3>Udemy Courses</h3>
- <a href="">The Linux Command Line Bootcamp</a><br>
- <a href="">Complete Linux Troubleshooting Course</a><br>
+ <a href="https://www.udemy.com/course/the-linux-command-line-bootcamp/">The Linux Command Line Bootcamp</a><br>
+ <a href="https://www.udemy.com/course/linux-troubleshooting-course/">Complete Linux Troubleshooting Course</a><br>
  <!-- <a href="">Bash Mastery: The Complete Guide to Bash Shell Scripting</a> -->
 
  <h3>Cloud Courses</h3>
  <a href="https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03">Learn Cantrill's AWS Cerfitied Solutions Architect   Associate</a>
 
  <h3>Software Dev/Ops</h3>
- <a href="">Coursecareers Software Development Fundamentals</a>
+ <a href="https://coursecareers.com/courses/explore/software-dev-fundamentals">Coursecareers Software Development Fundamentals</a>
 
 
 
