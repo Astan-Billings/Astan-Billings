@@ -46,10 +46,27 @@
 -->
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
-  <b>***Works In Progress***</b>
+
+<h3>Documentation</h3>
+
+- <b>How to Setup and Teardown an AWS Virtual Private Network (AWS Cloud Engineer Coursework)</b><br/>
+  - [AWS-VPC-Network-Documentation](https://github.com/Astan-Billings/Aws-Vpc-Network-Documentation/)
+
+- <b>How to Setup and Teardown an AWS Elastic Load Balancer (AWS Cloud Engineer Coursework)</b><br/>
+  - [AWS-Elastic-Load Balancer-Documentation](https://github.com/Astan-Billings/Aws-Elastic-Load-Balancer-Documentation)
+
+- <b>How to Setup and Teardown an AWS Auto Scaling Group (AWS Cloud Engineer Coursework)</b><br/>
+  - [AWS-Auto-Scaling-Group-Documentation](https://github.com/Astan-Billings/Aws-Auto-Scaling-Group-Documentation)
+
+- <b>How to Setup and Teardown AWS Simple Storage Service, S3  (AWS Cloud Engineer Coursework)</b><br/>
+  - [AWS-Simple-Storage-Service-S3-Documentation](https://github.com/Astan-Billings/Aws-Simple-Storage-Service-Documentation)
+
+<h3>Projects</h3>
+
+  <b>Coming Soon, Stay Tuned!</b>
 
 <h2>👨‍💻 Software Dev/Ops Projects:</h2>
-  <b>***Works In Progress***</b>
+  <b>Coming Soon, Stay Tuned!</b>
 
 <!--  
 - <b>Software Development Projects</b>
