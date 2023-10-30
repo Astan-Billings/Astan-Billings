@@ -25,7 +25,7 @@
 <h2>👨‍💻 Linux System Admin/Engineering Projects:</h2>
 
 - <b>Containerized Applications with Docker (Linux Administration Bootcamp Part 2)</b>
-  - [Running Containerized Applications with Docker on Linux](https://github.com/Astan-Billings/Linux-Docker-Container)
+  - [Running Containerized Applications with Docker on Linux](https://github.com/Astan-Billings/Linux-Docker-Container)<b><i>(Work in Progress)
 - <b>Automation of Linux Administration Tasks with Ansible (Linux Administration Bootcamp Part 2)</b>
   - [Automating Linux Administration tasks with Ansible](https://github.com/Astan-Billings/Linux-Ansible-Automation/) <b><i>(Potentially VSFW)</b></i>
 
